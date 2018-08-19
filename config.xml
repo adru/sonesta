@@ -3,12 +3,12 @@
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		xmlns:android="http://schemas.android.com/apk/res/android"
 		id        = "guru.trueblue.sonesta"
-		android-versionCode="1080"
-		versionCode="108"
-		version   = "1.0.8">
+		android-versionCode="1090"
+		versionCode="109"
+		version   = "1.0.9">
 
 		<gap:config-file platform="ios" parent="CFBundleShortVersionString">
-		  <string>1.0.8</string>
+		  <string>1.0.9</string>
 		</gap:config-file>
 
 	  <name>Esquilón</name>
