@@ -187,7 +187,7 @@
         <variable name="APP_NAME" value="TrueBlue Loyalty Apps" />
     </plugin>
     <platform name="android">
-        <plugin name="cordova-plugin-firebase" spec="2.0.4" />
+        <plugin name="cordova-plugin-firebase" spec="2.0.5" />
     </platform>
     <platform name="ios">
         <preference name="phonegap-version" value="cli-6.5.0" />
