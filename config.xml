@@ -187,7 +187,7 @@
         <variable name="APP_NAME" value="TrueBlue Loyalty Apps" />
     </plugin>
     <platform name="android">
-        <plugin name="cordova-plugin-firebase" spec="2.0.5" />
+        <plugin name="cordova-plugin-firebase" spec="https://github.com/adru/cordova-plugin-firebase.git" />
         <resource-file src="google-services.json" target="." />
     </platform>
     <platform name="ios">
