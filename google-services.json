@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531234098389",
+    "firebase_url": "https://esquilon-restaurant.firebaseio.com",
+    "project_id": "esquilon-restaurant",
+    "storage_bucket": "esquilon-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531234098389:android:92d45f56e4a0d7e4",
+        "android_client_info": {
+          "package_name": "guru.trueblue.fcmsonesta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531234098389-hnk9hcds8q0mhmo2fq4obm7m2ajtqmg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtiiQlG1h15V2dzCr60zQFGLFUBHNNUtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531234098389-hnk9hcds8q0mhmo2fq4obm7m2ajtqmg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
