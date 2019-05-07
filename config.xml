@@ -188,6 +188,7 @@
     </plugin>
     <platform name="android">
         <plugin name="cordova-plugin-firebase" spec="2.0.5" />
+        <resource-file src="google-services.json" target="." />
     </platform>
     <platform name="ios">
         <preference name="phonegap-version" value="cli-6.5.0" />
