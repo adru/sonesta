@@ -191,7 +191,7 @@
     </platform>
     <platform name="ios">
         <preference name="phonegap-version" value="cli-6.5.0" />
-        <plugin name="phonegap-plugin-push" />
+        <plugin name="phonegap-plugin-push" spec="1.11.1" />
         <plugin name="cordova-plugin-customurlscheme" source="npm">
             <param name="URL_SCHEME" value="fb1523899957830230truebluesonesta" />
         </plugin>
